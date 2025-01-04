@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>🚩 Jai Shree Ram, I'm Rupesh Varshney </h1>
+  <h1>🚩 Jai Shree Ram </h1>
+  <h1>I'm Rupesh Varshney</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=Web developer;Open-Source+Contributor" alt="Typing SVG">
 </div>
 
