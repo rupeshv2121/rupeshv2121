@@ -1,3 +1,11 @@
+<div align="center">
+  <h1>👋 Hi, I'm Rupesh (Varshney) </h1>
+  <h2>Full Stack Developer | MERN Stack | AI Enthusiast</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;AI+Enthusiast;Open-Source+Contributor" alt="Typing SVG">
+</div>
+
+
+
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/contributorAnalytics">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
