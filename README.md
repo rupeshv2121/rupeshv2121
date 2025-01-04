@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%">
 </div>
 
-<div class="technologies">
+<div class="technologies" align="center">
   <h3>⚙️ Technologies & Tools</h3>
   <div class="tech-icons" align="center>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
