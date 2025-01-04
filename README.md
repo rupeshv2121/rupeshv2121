@@ -25,7 +25,7 @@
   </div>
 </div>
 
-<div class="language">
+<div class="language" align="center">
   <h3>Programming Languages</h3>
   <div class="coding">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
