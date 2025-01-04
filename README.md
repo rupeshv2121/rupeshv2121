@@ -65,7 +65,7 @@
 
 ### 🏆 Hacktoberfest Achievements
 
-[![Holopin Badges](https://holopin.me/rupeshv2121)](https://holopin.io/@rupeshv2121)]
+[![Holopin Badges](https://holopin.me/rupeshv2121)](https://holopin.io/@rupeshv2121)
 
 ---
 
