@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Rupesh Varshney </h1>
-  <h2>Full Stack Developer | MERN Stack</h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;AI+Enthusiast;Open-Source+Contributor" alt="Typing SVG">
+  <h2>Web Developerk</h2>
+<!--   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;AI+Enthusiast;Open-Source+Contributor" alt="Typing SVG"> -->
 </div>
 
 
