@@ -67,10 +67,6 @@
 
 [![Holopin Badges](https://holopin.me/rupeshv2121)](https://holopin.io/@rupeshv2121)]
 
-### 🏆 Postman Achievements
-
-[![Badge: Postman API Fundamentals Student Expert](https://api.badgr.io/public/assertions/xOGHYTfLRJe0OcbYaiyoyg/image)](https://api.badgr.io/public/assertions/xOGHYTfLRJe0OcbYaiyoyg)
-
 ---
 
 
