@@ -1,10 +1,10 @@
 <div align="center">
   <h1>👋 Hi, I'm Rupesh Varshney </h1>
-  <div align="center">
+<!--   <div align="center"> -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%">
-</div>
+  </div>
   <h2>Web Developer</h2>
-  <div align="center">
+<!--   <div align="center"> -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%">
 </div>
 <!--   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;AI+Enthusiast;Open-Source+Contributor" alt="Typing SVG"> -->
