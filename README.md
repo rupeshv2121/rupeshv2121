@@ -45,16 +45,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rupeshv2121&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshv2121&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
-  <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=rupeshv2121&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshv2121&layout=compact&theme=dracula" height="150" alt="Top Languages" />
-
-<!-- GitHub Streak -->
 <img src="https://streak-stats.demolab.com/?user=rupeshv2121&theme=dracula" width="350" height="150" alt="GitHub Streak" />
+</p>
 
 
 ---
