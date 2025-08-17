@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🚩 Jai Shree Ram </h1>
   <h1>I'm Rupesh Varshney</h1>
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=Web+developer;Open-Source+Contributor" alt="Typing SVG" />>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+developer;Open-Source+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -42,13 +42,14 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%">
 </div>
 
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rupeshv2121&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats%20-%20" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rupeshv2121&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Most%20Used%20Languages%20-" height="150" alt="languages graph"  /> 
-</div>
-  <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=rupeshv2121&theme=dracula" width="350" height="150" alt="GitHub streak" />
-  </div>
+  <!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=rupeshv2121&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshv2121&layout=compact&theme=dracula" height="150" alt="Top Languages" />
+
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com/?user=rupeshv2121&theme=dracula" width="350" height="150" alt="GitHub Streak" />
 
 
 ---
