@@ -60,8 +60,8 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rupeshv2121&theme=radical" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-hour?username=rupeshv2121&theme=radical" alt="Commits per Hour" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/issues-stat?username=rupeshv2121&theme=radical" alt="Issues Stat" />
+<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-hour?username=rupeshv2121&theme=radical" alt="Commits per Hour" /> -->
+<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/issues-stat?username=rupeshv2121&theme=radical" alt="Issues Stat" /> -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rupeshv2121&theme=radical" alt="Productive Time" />
 </div>
 
