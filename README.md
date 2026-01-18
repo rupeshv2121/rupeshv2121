@@ -45,14 +45,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rupeshv2121&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshv2121&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=rupeshv2121&theme=dracula" width="350" height="150" alt="GitHub Streak" />
 </p>
 
-<!-- 🐍 Contribution Chart (snk) -->
-<p align="center">
-  <!-- This will work after your snk workflow runs and the SVG is generated -->
-  <img src="https://github.com/rupeshv2121/rupeshv2121/blob/output/github-contribution-grid-snake.svg" alt="Contribution Graph Animation" />
-</p>
 
 ---
 
